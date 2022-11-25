@@ -1,0 +1,6 @@
+Lien vers les données: https://insights.stackoverflow.com/survey (prendre 2022 & 2021, penser à renommer)
+
+Joindre les notebooks - Eliot (En cours)
+Selection variables - 
+Reduction bruit - dropna, grouper réponses, etc.
+Inclure biais - 
